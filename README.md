@@ -7,10 +7,10 @@
 This repository is broken down into two separate sections, **tutorials** and **community samples**.
 
 * [Tutorials][3]
-  Contains multiple walkthroughs, with documentation, about how to create very specific new symbols in PI Coresight.
+    Contains multiple walkthroughs, with documentation, about how to create very specific new symbols in PI Coresight.
 
 * [Community Samples][4]
-  Contains sample symbols and panes submitted by OSIsoft and the community to showcase what they have done with PI Coresight's extensibilty model.
+    Contains sample symbols and panes submitted by OSIsoft and the community to showcase what they have done with PI Coresight's extensibilty model.
 
 ## Resources
 * [PI Coresight 2016 Extensibility Documentation][5]
